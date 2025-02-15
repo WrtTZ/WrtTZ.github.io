@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruotian's HomePage"
-description              : "This is the HomePage of Ruotian"
+description              : 
 repository               : "WrtTZ/WrtTZ.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             : "wrt857148016"
+  xing             :
   youtube          :
   wikipedia        :
 
