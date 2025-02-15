@@ -49,8 +49,8 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 
 # 📖 Educations
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Computer Science, University of Waterloo 
-- *2019.09 - 2024.04*, •	Bachelor of Mathematics, Honours Statistics, University of Waterloo
-- *2019.09 - 2026.09*(expected), •	Master of Mathematics, Computer Science, University of Waterloo
+- *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Statistics, University of Waterloo
+- *2019.09 - 2026.09*(expected), Master of Mathematics, Computer Science, University of Waterloo
 
 # 🧑‍🏫 Teaching
 - *2024.09 - 2024.12* Teaching Assistant, CS246 Object Oriented Programming.
@@ -59,7 +59,8 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+--> 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
---> 
+
