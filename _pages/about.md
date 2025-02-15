@@ -28,7 +28,7 @@ I obtained a Bachlor of Mathematics with a double major in Computer Science and 
 - *2024.10*: &nbsp;🎉🎉 Our work on improving RGTG is available on Arxiv. This work detailedly anylysed the all the current existing RGTG methods and improves on the ARGS method by utilizing parital-sequence preference data to train the reward model.
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,8 +40,9 @@ I obtained a Bachlor of Mathematics with a double major in Computer Science and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+--> 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Achieving fairness in team-based FPS games: A skill-based matchmaking solution]([https://github.com](https://www.ewadirect.com/proceedings/ace/article/view/10609)), Ruotian Wu, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
