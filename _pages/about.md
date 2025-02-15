@@ -19,9 +19,7 @@ redirect_from:
 
 Hi there! I am Ruotian Wu, a Master student at University of Waterloo, supervised by <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'> Profesor Pascal Poupart</a>.
 
-I obtained a Bachlor of Mathematics with a double major in Computer Science and Statistics at University of Waterloo. During my undergraduate, I had a few industry interns with HUAWEI and Manulife. Currently my research foucs on Large Language Models, more specifically, alignment and decoding algorithms. I am also working on an industry corporation with Scribendi on developing AI-driven Document Editing. I am also looking into fostering LLM agents to become better.
-
-
+I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. During my undergraduate studies, I completed industry internships at Huawei and Manulife. My current research focuses on Large Language Models (LLMs), particularly alignment and decoding algorithms. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am also exploring ways to enhance LLM agents to improve their capabilities on different game settings. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
 
 # 🔥 News
 - *2025.02: &nbsp;🎉🎉 Our latest work on RGTG is available on Arxiv and current under review for ICML2025. This work proposes a new architecture of reward models to speed up the overhead of traditional RGTG methods and came up with a new training paradigm that is more principle.
@@ -53,6 +51,9 @@ I obtained a Bachlor of Mathematics with a double major in Computer Science and 
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Computer Science, University of Waterloo 
 - *2019.09 - 2024.04*, •	Bachelor of Mathematics, Honours Statistics, University of Waterloo
 - *2019.09 - 2026.09*(expected), •	Master of Mathematics, Computer Science, University of Waterloo
+
+# 🧑‍🏫 Teaching
+- *2024.09 - 2024.12* Teaching Assistant, CS246 Object Oriented Programming.
 
 <!--
 # 💬 Invited Talks
