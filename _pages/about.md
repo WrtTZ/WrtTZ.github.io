@@ -22,8 +22,9 @@ Hi there! I am Ruotian Wu, a Master student at University of Waterloo, supervise
 I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. During my undergraduate studies, I completed industry internships at Huawei and Manulife. My current research focuses on Large Language Models (LLMs), particularly alignment and decoding algorithms. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am also exploring ways to enhance LLM agents to improve their capabilities on different game settings. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
 
 # 🔥 News
-- *2025.02: &nbsp;🎉🎉 Our latest work on RGTG is available on Arxiv and current under review for ICML2025. This work proposes a new architecture of reward models to speed up the overhead of traditional RGTG methods and came up with a new training paradigm that is more principle.
-- *2024.10*: &nbsp;🎉🎉 Our work on improving RGTG is available on Arxiv. This work detailedly anylysed the all the current existing RGTG methods and improves on the ARGS method by utilizing parital-sequence preference data to train the reward model.
+- *2025.02*: &nbsp;🎉🎉 Our latest work on RGTG is available on Arxiv and current under review for ICML2025. This work proposes a new architecture of reward models to speed up the overhead of traditional RGTG methods and came up with a new training paradigm that is more principle. [Towards Cost-Effective Reward Guided Text Generation]([https://arxiv.org/abs/2502.04517]), Ahmad Rashid <sup>*</sup>, Ruotian Wu <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart
+- *2025.02*: &nbsp;🎉🎉 Our work on a new tree search algorithm is available on Arxiv and current under review for ICML2025. We propose an uncertainty-guided tree search algorithm for settings where the reward function is a log-likelihood function of the paths. [Uncertainty-Guided Optimization on Large Language Model Search Trees]([https://arxiv.org/abs/2407.03951]), ulia Grosse, Ruotian Wu, Ahmad Rashid, Philipp Hennig, Pascal Poupart, Agustinus Kristiadi
+- *2024.10*: &nbsp;🎉🎉 Our work on improving RGTG is available on Arxiv. This work detailedly anylysed the all the current existing RGTG methods and improves on the ARGS method by utilizing parital-sequence preference data to train the reward model. [A Critical Look At Tokenwise Reward-Guided Text Generation]([https://arxiv.org/abs/2406.07780]), Ahmad Rashid, Ruotian Wu, Julia Grosse, Agustinus Kristiadi, Pascal Poupart
 
 # 📝 Publications 
 <!--
@@ -40,7 +41,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 </div>
 --> 
 
-- [Achieving fairness in team-based FPS games: A skill-based matchmaking solution]([https://github.com](https://www.ewadirect.com/proceedings/ace/article/view/10609)), Ruotian Wu, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
+- [Achieving fairness in team-based FPS games: A skill-based matchmaking solution]([https://www.ewadirect.com/proceedings/ace/article/view/10609]), Ruotian Wu, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,5 +63,12 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 --> 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2025.04*, Vector Institute, Research Assistant
+- *2023.01 - 2023.04*, Manulife/JohnHancock, Platform Reliability Engineer
+- *2022.05 - 2022.08*, HUAWEI, Support Engineer
+- *2021.05 - 2021.12*, Youth STEM Academy, Computer Science Tutor
+- *2020.08 - 2020.12*, Hande-China, Management Consultant
+
+
+
 
