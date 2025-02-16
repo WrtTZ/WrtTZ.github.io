@@ -59,7 +59,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 
 # 🧑‍🏫 Teaching
 - *2024.09 - 2024.12*, Teaching Assistant, CS246 Object Oriented Programming
-- *2021.05 - current*, Tutor, Cambridge IGCSE and A-level - Computer Science (0478 & 9618)
+- *2021.05 - current*, Tutor, Cambridge IGCSE and A-level Computer Science (0478 & 9618)
 
 <!--
 # 💬 Invited Talks
