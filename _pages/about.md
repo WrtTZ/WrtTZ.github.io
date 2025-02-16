@@ -64,7 +64,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 
 
 # 💬 Invited Talks
-- *2024.12*, Presentation on the latest progress on LLM alignment at the Green-AI bootcamp arranged by Vector Institute
+- *2024.12*, Presented the latest advancements in LLM alignment at the Green-AI Bootcamp, organized by the Vector Institute.
 
 # 💻 Internships
 - *2023.09 - 2024.04*, Vector Institute, Research Assistant
