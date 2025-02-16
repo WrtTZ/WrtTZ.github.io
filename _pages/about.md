@@ -50,6 +50,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 # 🎖 Honors and Awards
 - *2024.09* International Master's Award of Excellence, University of Waterloo
 - *2024.04* Graduation with Dean's Honors, University of Waterloo
+- *2019.09* President's Scholarship, University of Waterloo
 
 # 📖 Educations
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Computer Science, University of Waterloo 
