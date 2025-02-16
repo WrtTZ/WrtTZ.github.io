@@ -58,7 +58,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - *2019.09 - 2026.09*(expected), Master of Mathematics, Computer Science, University of Waterloo
 
 # 🧑‍🏫 Teaching
-- *2024.09 - 2024.12* Teaching Assistant, CS246 Object Oriented Programming.
+- *2024.09 - 2024.12*, Teaching Assistant, CS246 Object Oriented Programming.
 
 <!--
 # 💬 Invited Talks
