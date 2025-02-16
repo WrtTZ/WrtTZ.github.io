@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Ruotian Wu, a Master student at University of Waterloo, supervised by <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'> Profesor Pascal Poupart</a>.
+Hi there! I am Ruotian Wu, a Master's student at University of Waterloo, supervised by <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'> Profesor Pascal Poupart</a>.
 
 I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. During my undergraduate studies, I completed industry internships at Huawei and Manulife. My current research focuses on Large Language Models (LLMs), particularly alignment and decoding algorithms. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am also exploring ways to enhance LLM agents to improve their capabilities on different game settings. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
 
