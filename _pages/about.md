@@ -25,7 +25,9 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - *2025.02*: &nbsp;🎉🎉 Our latest work on RGTG is now available on [ArXiv]([https://arxiv.org/abs/2502.04517]) and is currently under review for ICML 2025. This research introduces a novel reward model architecture to reduce the computational overhead of traditional RGTG methods. We also propose a new training paradigm that is more principled and efficient.
 - *2025.02*: &nbsp;🎉🎉 Our work on a new search algorithm is available on [Arxiv]([https://arxiv.org/abs/2407.03951]) and is currently under review for ICML2025. This work proposes an uncertainty-guided tree search algorithm for settings where the reward function is a log-likelihood function of the paths.
 - *2024.10*: &nbsp;🎉🎉 Our research on improving RGTG is now published on [ArXiv]([https://arxiv.org/abs/2406.07780]). This work provides a comprehensive analysis of existing RGTG methods and enhances the ARGS method by leveraging partial-sequence preference data to train more effective reward models.
-# 📝 Publications 
+
+# 📝 Publications
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +40,8 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
---> 
+-->
+
 - [Towards Cost-Effective Reward Guided Text Generation]([https://arxiv.org/abs/2502.04517]), Ahmad Rashid <sup>*</sup>, Ruotian Wu <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart
 - [Uncertainty-Guided Optimization on Large Language Model Search Trees]([https://arxiv.org/abs/2407.03951]), Julia Grosse, Ruotian Wu, Ahmad Rashid, Philipp Hennig, Pascal Poupart, Agustinus Kristiadi
 - [A Critical Look At Tokenwise Reward-Guided Text Generation]([https://arxiv.org/abs/2406.07780]), Ahmad Rashid, Ruotian Wu, Julia Grosse, Agustinus Kristiadi, Pascal Poupart
