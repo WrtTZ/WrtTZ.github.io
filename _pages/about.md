@@ -47,10 +47,9 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - [A Critical Look At Tokenwise Reward-Guided Text Generation](https://arxiv.org/abs/2406.07780), Ahmad Rashid, **Ruotian Wu**, Julia Grosse, Agustinus Kristiadi, Pascal Poupart **Arxiv**
 - [Achieving fairness in team-based FPS games: A skill-based matchmaking solution](https://www.ewadirect.com/proceedings/ace/article/view/10609), **Ruotian Wu**, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
---> 
+# 🎖 Honors and Awards
+- *2024.09* International Master's Award of Excellence, University of Waterloo
+- *2024.04* Graduation with Dean's Honors, University of Waterloo
 
 # 📖 Educations
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Computer Science, University of Waterloo 
