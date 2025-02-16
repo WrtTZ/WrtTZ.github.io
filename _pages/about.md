@@ -24,7 +24,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our latest work **FaRMA** is now available on [ArXiv](https://arxiv.org/abs/2502.04517) and is currently under review for ICML 2025. This research introduces a novel reward model architecture to reduce the computational overhead of traditional **Reward Guided Text Generation (RGTG)** methods. We also propose a new training paradigm that is more principled and efficient.
 - *2025.02*: &nbsp;🎉🎉 Our work on a new search algorithm is available on [Arxiv](https://arxiv.org/abs/2407.03951) and is currently under review for ICML2025. This work proposes an **uncertainty-guided tree search** algorithm for settings where the reward function is a log-likelihood function of the paths.
-- *2024.10*: &nbsp;🎉🎉 Our research on enhancing **(RGTG)** is now available on [ArXiv](https://arxiv.org/abs/2406.07780). This work provides a comprehensive analysis of existing RGTG methods and improves the performance by leveraging partial-sequence preference data to train more effective reward models.
+- *2024.10*: &nbsp;🎉🎉 Our research on enhancing **RGTG** is now available on [ArXiv](https://arxiv.org/abs/2406.07780). This work provides a comprehensive analysis of existing RGTG methods and improves the performance by leveraging partial-sequence preference data to train more effective reward models.
 
 # 📝 Publications
 
