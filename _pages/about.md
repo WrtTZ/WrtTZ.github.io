@@ -42,9 +42,9 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 </div>
 -->
 
-- [Towards Cost-Effective Reward Guided Text Generation]([https://arxiv.org/abs/2502.04517]), Ahmad Rashid <sup>*</sup>, **Ruotian Wu** <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart
-- [Uncertainty-Guided Optimization on Large Language Model Search Trees]([https://arxiv.org/abs/2407.03951]), Julia Grosse, **Ruotian Wu**, Ahmad Rashid, Philipp Hennig, Pascal Poupart, Agustinus Kristiadi
-- [A Critical Look At Tokenwise Reward-Guided Text Generation]([https://arxiv.org/abs/2406.07780]), Ahmad Rashid, **Ruotian Wu**, Julia Grosse, Agustinus Kristiadi, Pascal Poupart
+- [Towards Cost-Effective Reward Guided Text Generation]([https://arxiv.org/abs/2502.04517]), Ahmad Rashid <sup>*</sup>, **Ruotian Wu** <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart **Arxiv**
+- [Uncertainty-Guided Optimization on Large Language Model Search Trees]([https://arxiv.org/abs/2407.03951]), Julia Grosse, **Ruotian Wu**, Ahmad Rashid, Philipp Hennig, Pascal Poupart, Agustinus Kristiadi **Arxiv**
+- [A Critical Look At Tokenwise Reward-Guided Text Generation]([https://arxiv.org/abs/2406.07780]), Ahmad Rashid, **Ruotian Wu**, Julia Grosse, Agustinus Kristiadi, Pascal Poupart **Arxiv**
 - [Achieving fairness in team-based FPS games: A skill-based matchmaking solution]([https://www.ewadirect.com/proceedings/ace/article/view/10609]), **Ruotian Wu**, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
 
 <!-- # 🎖 Honors and Awards
