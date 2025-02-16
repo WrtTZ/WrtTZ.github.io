@@ -58,14 +58,13 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - *2024.09 - 2026.09*(expected), Master of Mathematics, Computer Science, University of Waterloo
 
 # 🧑‍🏫 Teaching
+- *2024.10 - 2025.03*, Teaching Assistant, Green AI bootcamp, vector Institute
 - *2024.09 - 2024.12*, Teaching Assistant, CS246 Object Oriented Programming
 - *2021.05 - current*, Tutor, Cambridge IGCSE and A-level Computer Science (0478 & 9618)
 
-<!--
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
---> 
+- *2024.12*, Presentation on the latest progress on LLM alignment at the Green-AI bootcamp arranged by Vector Institute
 
 # 💻 Internships
 - *2023.09 - 2024.04*, Vector Institute, Research Assistant
