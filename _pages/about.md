@@ -19,12 +19,13 @@ redirect_from:
 
 Hi there! I am Ruotian Wu, a Master's student at University of Waterloo, supervised by Professor <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'>  Pascal Poupart</a>.
 
-I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. My current research focuses on Large Language Models (LLMs), particularly alignment and decoding algorithms. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am also exploring ways to enhance LLM agents to improve their capabilities on different game settings. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
+I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. My current research focuses on Large Language Models (LLMs), particularly alignment, reinforcement learning and agentic system. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 I will become a stundent researcher at Manulife starting this September, working on self-evolving agentic system for underwriting.
+- *2025.10*: &nbsp;🎉🎉Our research on enhancing **RGTG**, [**PARGS**](https://arxiv.org/abs/2406.07780) is accepted by COLM 2025! See you in Montreal! This work provides a comprehensive analysis of existing RGTG methods and improves the performance by leveraging partial-sequence preference data to train more effective reward models.
 - *2025.05*: &nbsp;🎉🎉 Our latest work [**FaRMA**](https://arxiv.org/abs/2502.04517) is accepted by ICML 2025! See you in Vancouver! This research introduces a novel reward model architecture to reduce the computational overhead of traditional **Reward Guided Text Generation (RGTG)** methods. We also propose a new training paradigm that is more principled and efficient.
 - *2025.02*: &nbsp;🎉🎉 Our work on a new search algorithm is available on [Arxiv](https://arxiv.org/abs/2407.03951). This work proposes an **uncertainty-guided tree search** algorithm for settings where the reward function is a log-likelihood function of the paths.
-- *2024.10*: &nbsp;🎉🎉 Our research on enhancing **RGTG** is now available on [ArXiv](https://arxiv.org/abs/2406.07780). This work provides a comprehensive analysis of existing RGTG methods and improves the performance by leveraging partial-sequence preference data to train more effective reward models.
 
 # 📝 Publications
 
@@ -42,9 +43,9 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 </div>
 -->
 
-- [Towards Cost-Effective Reward Guided Text Generation](https://arxiv.org/abs/2502.04517), Ahmad Rashid <sup>*</sup>, **Ruotian Wu** <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart **Arxiv**
+- [Towards Cost-Effective Reward Guided Text Generation](https://arxiv.org/abs/2502.04517), Ahmad Rashid <sup>*</sup>, **Ruotian Wu** <sup>*</sup>, Rongqi Fan, Hongliang Li, Agustinus Kristiadi, Pascal Poupart **ICML2025**
+- [A Critical Look At Tokenwise Reward-Guided Text Generation](https://arxiv.org/abs/2406.07780), Ahmad Rashid, **Ruotian Wu**, Julia Grosse, Agustinus Kristiadi, Pascal Poupart **COLM2025**
 - [Uncertainty-Guided Likelihood-Tree Search](https://arxiv.org/abs/2407.03951), Julia Grosse, **Ruotian Wu**, Ahmad Rashid, Philipp Hennig, Pascal Poupart, Agustinus Kristiadi **Arxiv**
-- [A Critical Look At Tokenwise Reward-Guided Text Generation](https://arxiv.org/abs/2406.07780), Ahmad Rashid, **Ruotian Wu**, Julia Grosse, Agustinus Kristiadi, Pascal Poupart **Arxiv**
 - [Achieving fairness in team-based FPS games: A skill-based matchmaking solution](https://www.ewadirect.com/proceedings/ace/article/view/10609), **Ruotian Wu**, Xiangcheng Meng, Haoshen Chen, Zixuan Zhu, Bo Wang **MLA 2023**
 
 # 🎖 Honors and Awards
@@ -67,6 +68,7 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 - *2024.12*, Presented the latest advancements in LLM alignment at the Green-AI Bootcamp, organized by the Vector Institute.
 
 # 💻 Internships
+- *2025.09-2025.12*, Manulife/JohnHancock, Applied Researcher
 - *2023.09 - 2024.04*, Vector Institute, Research Assistant
 - *2023.01 - 2023.04*, Manulife/JohnHancock, Platform Reliability Engineer
 - *2022.05 - 2022.08*, HUAWEI, Support Engineer
