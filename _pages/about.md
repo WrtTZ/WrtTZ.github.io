@@ -69,9 +69,9 @@ I earned my Bachelor of Mathematics with a double major in Computer Science and 
 
 # 💻 Internships
 - *2025.09-2025.12*, Manulife/JohnHancock, Applied Researcher
+- *2024.05 - 2024.08*, HUAWEI, Student Researcher
 - *2023.09 - 2024.04*, Vector Institute, Research Assistant
 - *2023.01 - 2023.04*, Manulife/JohnHancock, Platform Reliability Engineer
-- *2022.05 - 2022.08*, HUAWEI, Support Engineer
 - *2021.05 - 2021.12*, Youth STEM Academy, Computer Science Tutor
 - *2020.08 - 2020.12*, Hande-China, Management Consultant
 
