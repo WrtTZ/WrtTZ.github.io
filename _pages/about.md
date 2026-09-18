@@ -60,7 +60,7 @@ I’m always interested in exploring new research ideas and opportunities for ac
 # 📖 Educations
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Computer Science, University of Waterloo 
 - *2019.09 - 2024.04*, Bachelor of Mathematics, Honours Statistics, University of Waterloo
-- *2024.09 - 2026.09*(expected), Master of Mathematics, Computer Science, University of Waterloo
+- *2024.09 - 2026.09*, Master of Mathematics, Computer Science, University of Waterloo
 
 # 🧑‍🏫 Teaching
 - *2024.10 - 2025.03*, Teaching Assistant, Green-AI bootcamp, vector Institute
