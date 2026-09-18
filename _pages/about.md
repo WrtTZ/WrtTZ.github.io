@@ -22,6 +22,8 @@ Hi there! I am Ruotian Wu, a Master's student at University of Waterloo, supervi
 I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. My current research focuses on Large Language Models (LLMs), particularly alignment, reinforcement learning and agentic system. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
 
 # 🔥 News
+- *2026.9*: &nbsp;🎉🎉 I have completed my Master Thesis Presentation, will join Tencent, Shenzhen in October!
+- *2026.9*: &nbsp;🎉🎉 Archived my Master Thesis: [**DualBO**](https://hdl.handle.net/10012/23991)
 - *2025.10*: &nbsp;🎉🎉Our research on enhancing **RGTG**, [**PARGS**](https://arxiv.org/abs/2406.07780) is accepted by COLM 2025! See you in Montreal! This work provides a comprehensive analysis of existing RGTG methods and improves the performance by leveraging partial-sequence preference data to train more effective reward models.
 - *2025.08*: &nbsp;🎉🎉 I will join Manulife as a stundent researcher, working on self-evolving agentic system for underwriting.
 - *2025.05*: &nbsp;🎉🎉 Our latest work [**FaRMA**](https://arxiv.org/abs/2502.04517) is accepted by ICML 2025! See you in Vancouver! This research introduces a novel reward model architecture to reduce the computational overhead of traditional **Reward Guided Text Generation (RGTG)** methods. We also propose a new training paradigm that is more principled and efficient.
