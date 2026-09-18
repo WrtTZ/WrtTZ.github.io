@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am Ruotian Wu, a Master's student graduated from University of Waterloo, supervised by Professor <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'>  Pascal Poupart</a>. I have joined Tencent, Shenzhen as a research engineer since October, 2026.
+Hi! I’m Ruotian Wu, a recent Master’s graduate from the University of Waterloo, where I was supervised by Professor <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://cs.uwaterloo.ca/~ppoupart/)'>  Pascal Poupart</a>. In October 2026, I will join Tencent in Shenzhen as a Research Engineer.
 
-I earned my Bachelor of Mathematics with a double major in Computer Science and Statistics from the University of Waterloo. My current research focuses on Large Language Models (LLMs), particularly alignment, reinforcement learning and agentic system. Additionally, I am collaborating with Scribendi on AI-driven document editing. I am always open to new ideas, collaborations, and industry partnerships. If you’re interested in working together, feel free to reach out!
+I received my Bachelor of Mathematics from the University of Waterloo, with a double major in Computer Science and Statistics. My research interests center on Large Language Models (LLMs), particularly alignment, reinforcement learning, and agentic systems. I also collaborate with Scribendi on AI-driven approaches to document editing.
+
+I’m always interested in exploring new research ideas and opportunities for academic and industry collaboration. If our interests overlap, feel free to reach out!
 
 # 🔥 News
 - *2026.9*: &nbsp;🎉🎉 I have completed my Master Thesis Presentation, will join Tencent, Shenzhen in October!
